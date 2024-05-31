@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "980311428616",
+    "project_id": "chatapp-4201d",
+    "storage_bucket": "chatapp-4201d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980311428616:android:c43210455d0b8e6f81cbbd",
+        "android_client_info": {
+          "package_name": "com.example.gp_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65x59JpakrJ_YvVbEfraNcUZ2NnKzW2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980311428616:android:25d82df77bcec97581cbbd",
+        "android_client_info": {
+          "package_name": "com.example.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65x59JpakrJ_YvVbEfraNcUZ2NnKzW2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980311428616:android:37894f7e990c240d81cbbd",
+        "android_client_info": {
+          "package_name": "com.kudusbannah.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65x59JpakrJ_YvVbEfraNcUZ2NnKzW2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980311428616:android:ab3a13c18e29c3cb81cbbd",
+        "android_client_info": {
+          "package_name": "kudusBannah.me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65x59JpakrJ_YvVbEfraNcUZ2NnKzW2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980311428616:android:589c6e71c089aa3a81cbbd",
+        "android_client_info": {
+          "package_name": "kudusbanna.me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65x59JpakrJ_YvVbEfraNcUZ2NnKzW2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980311428616:android:2ff2c6fcec0f582481cbbd",
+        "android_client_info": {
+          "package_name": "kudusbannah.me"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65x59JpakrJ_YvVbEfraNcUZ2NnKzW2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
